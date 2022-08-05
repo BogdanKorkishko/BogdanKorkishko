@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me 
+- 📫 How to reach me, u can use my email: b.korkishko2003@gmail.com
 
 <!---
 BogdanKorkishko/BogdanKorkishko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
